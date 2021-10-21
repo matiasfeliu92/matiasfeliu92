@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript language
 - 💞️ I’m looking to collaborate on a work team, where I can contribute my knowledge and skills, and also learn and develop as a professional
 - 📫 How to reach me: https://www.linkedin.com/in/mat%C3%ADas-mazparrote-feli%C3%BA/
-- 💼 Here you can see my portfolio with work done
+- 💼 Here you can see my portfolio with work done: https://cv-porfolio-matias-mazparrote.netlify.app/
 
 <!---
 matiasfeliu92/matiasfeliu92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
