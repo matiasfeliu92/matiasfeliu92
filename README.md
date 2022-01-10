@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; Python  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- React Js | Node Js | Express
+- 🌐 &nbsp; React Js | Node Js | Express
 - 🛢 &nbsp; MySQL | Xampp | MongoDb
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop 
