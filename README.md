@@ -27,6 +27,7 @@
 &nbsp; <a href="https://www.instagram.com/matute_92/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/mat%C3%ADasmazparrotefeli%C3%BA/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:matumazparrote@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://portafolio-react.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="💼"  width="50" /></a>
 </p>
 
 ⭐️ From [devSouvik](https://github.com/devSouvik)
