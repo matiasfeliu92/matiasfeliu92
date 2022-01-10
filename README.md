@@ -11,6 +11,7 @@
 
 - 💻 &nbsp; Python  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- React Js | Node Js | Express
 - 🛢 &nbsp; MySQL | Xampp | MongoDb
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop 
@@ -30,4 +31,4 @@
 &nbsp; <a href="https://portafolio-react.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="💼"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+⭐️ From [matiasfeliu92](https://github.com/matiasfeliu92/matiasfeliu92)
