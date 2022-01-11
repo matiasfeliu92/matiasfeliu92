@@ -5,7 +5,6 @@
 
 - 🔭 &nbsp;  I’m currently learning React Js and Node js
 - 🤔 &nbsp; I’m interested in develop web sites and applications with new technologies and functionalities
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
