@@ -3,8 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp;  I’m currently learning React Js and Node js
+- 🔭 &nbsp;  I’m currently learning Backend development, with Node Js, Python
 - 🤔 &nbsp; I’m interested in develop web sites and applications with new technologies and functionalities
+- ✍️ &nbsp; My favorite hobbies are listening to music, swimming and jogging.
 
 <h3>🛠 Tech Stack</h3>
 
