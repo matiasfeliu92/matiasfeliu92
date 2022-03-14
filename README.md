@@ -3,15 +3,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp;  I’m currently learning Backend development, with Node Js, Python
+- 🔭 &nbsp;  I’m currently learning Backend and BlockChain development, with Node Js, Solidity and Web3
 - 🤔 &nbsp; I’m interested in develop web sites and applications with new technologies and functionalities
 - ✍️ &nbsp; My favorite hobbies are listening to music, swimming and jogging.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python  
+- 💻 &nbsp; Python, Solidity
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🌐 &nbsp; React Js | Node Js | Express
+- 🌐 &nbsp; React Js | Node Js | Express | Web3
 - 🛢 &nbsp; MySQL | Xampp | MongoDb
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop 
