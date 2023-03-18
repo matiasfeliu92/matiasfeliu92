@@ -9,12 +9,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python, Solidity
+- 💻 &nbsp; Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
-- 🌐 &nbsp; React Js | Node Js | Express | Web3
-- 🛢 &nbsp; MySQL | Xampp | MongoDb
+- 🌐 &nbsp; React Js | Node Js | Express 
+- 🛢 &nbsp; MySQL | PostgreSql | TypeOrm | MongoDb
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Illustrator | Photoshop 
 
 </br>
 
