@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Mazparrote</h1>
 <h3 align="center">A passionate full stack developer, focused on backend development from Buenos Aires, Argentina</h3>
 
-- 🌱 I’m currently learning **TypeScript, Nest Js, microservices, software architecture, Docker, AWS, Django**
+- 🌱 I’m currently learning **TypeScript, Next Js, Nest Js, microservices, software architecture, Docker, AWS**
 
 - 👨‍💻 All of my projects are available at https://matias-mazparrote-dev.vercel.app/
 
