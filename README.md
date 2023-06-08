@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Nest Js, microservices, software architecture, Docker, AWS, Django**
 
-- 👨‍💻 All of my projects are available at ((https://matias-mazparrote-dev.vercel.app/)](https://matias-mazparrote-dev.vercel.app/))
+- 👨‍💻 All of my projects are available at ((https://matias-mazparrote-dev.vercel.app/))
 
 - 📫 How to reach me **matumazparrote@gmail.com**
 
