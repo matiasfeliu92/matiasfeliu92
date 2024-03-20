@@ -14,7 +14,8 @@
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="[https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg)" alt="jupyter" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="![image](https://github.com/matiasfeliu92/matiasfeliu92/assets/88861016/36ea44c1-6d03-40cf-83d6-e2891488a2e1)
+" alt="jupyter" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="[https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg)" alt="pandas" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="[https://numpy.org/images/logos/numpy.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg)" alt="numpy" width="40" height="40"/></a>
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="[https://www.snowflake.com/wp-content/themes/snowflake/assets/images/snowflake-logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg)" alt="snowflake" width="40" height="40"/></a>
